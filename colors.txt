@@ -9,3 +9,6 @@ white
 grey
 
 gold
+
+Amber
+Black coffee
