@@ -7,3 +7,5 @@ white
 
 
 grey
+
+gold
