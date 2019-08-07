@@ -7,3 +7,7 @@ white
 
 ####
 green
+
+grey
+
+gold
